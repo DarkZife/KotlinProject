@@ -18,8 +18,8 @@ The language Used is Kotlin
 # Useful Websites
 
 
-- [Developers]((https://developer.android.com/))
-- [W3Shools]((https://www.w3schools.com/kotlin/index.php))
+- [Developers](https://developer.android.com/)
+- [W3Shools](https://www.w3schools.com/kotlin/index.php)
 - [codecademy](https://www.codecademy.com/catalog/language/kotlin)
 
 # Future Work
