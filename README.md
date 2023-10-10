@@ -10,7 +10,9 @@ The program I wrote is a contact manager, basically a spot to add contacts(Name,
 
 Tools Used:
 Mainly Visual Studio Code
+
 Kotlin Playground on this site https://developer.android.com/training/kotlinplayground 
+
 Android Studio
 
 The language Used is Kotlin
