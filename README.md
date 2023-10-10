@@ -1,14 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I really enjoyed learning the Kotlin Language, what I would like to do with this in the future is to create my own apps.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+The program I wrote is a contact manager, basically a spot to add contacts(Name, Phone, Email) and to be able to see all or search through them.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lvzS42foOKc)
 
 # Development Environment
 
